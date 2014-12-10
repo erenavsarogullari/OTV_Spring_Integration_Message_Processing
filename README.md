@@ -1,5 +1,5 @@
-OTV_Spring_Integration_Message_Processing
-=========================================
+Message Processing with Spring Integration
+==========================================
 
 Spring Integration provides an extension of the Spring framework to support the well-known Enterprise Integration Patterns. It enables lightweight messaging within Spring-based applications and supports integration with external systems. One of the most important goals of Spring Integration is to provide a simple model for building maintainable and testable enterprise integration solutions.
 
@@ -37,8 +37,4 @@ The following sample Cargo messaging implementation shows basic message endpoint
 
 Used Technologies :
 
-JDK 1.8.0_25
-Spring 4.1.2
-Spring Integration 4.1.0
-Maven 3.2.2
-Ubuntu 14.04
+JDK 1.8.0_25, Spring 4.1.2, Spring Integration 4.1.0, Maven 3.2.2 and Ubuntu 14.04
